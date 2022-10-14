@@ -1,0 +1,15 @@
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\obj\Debug\net6.0\tasks_seminar9.csproj.AssemblyReference.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\obj\Debug\net6.0\tasks_seminar9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\obj\Debug\net6.0\tasks_seminar9.AssemblyInfoInputs.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\obj\Debug\net6.0\tasks_seminar9.AssemblyInfo.cs
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\obj\Debug\net6.0\tasks_seminar9.csproj.CoreCompileInputs.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\bin\Debug\net6.0\tasks_seminar9.exe
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\bin\Debug\net6.0\tasks_seminar9.deps.json
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\bin\Debug\net6.0\tasks_seminar9.runtimeconfig.json
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\bin\Debug\net6.0\tasks_seminar9.dll
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\bin\Debug\net6.0\tasks_seminar9.pdb
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\obj\Debug\net6.0\tasks_seminar9.dll
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\obj\Debug\net6.0\refint\tasks_seminar9.dll
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\obj\Debug\net6.0\tasks_seminar9.pdb
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\obj\Debug\net6.0\tasks_seminar9.genruntimeconfig.cache
+C:\Users\ZaitsevaNV\Desktop\3. Языки программирования\Seminar_7\tasks_seminar9\obj\Debug\net6.0\ref\tasks_seminar9.dll
